@@ -12,7 +12,7 @@
     {
       "id": "1",
       "name": "深圳市住房和建设局",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x":100,
       "y":0,
       "value":150,
@@ -21,7 +21,7 @@
     {
       "id": "2",
       "name": "住房建设专题",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": 91.35,
       "y": 40.67,
       "category": 2
@@ -29,7 +29,7 @@
     {
       "id": "3",
       "name": "规范性文件",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": 30.9,
       "y": 95.1,
       "category": 3
@@ -37,7 +37,7 @@
     {
       "id": "4",
       "name": "各有关单位",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": -10.45,
       "y": 99.45,
       "category": 4
@@ -45,7 +45,7 @@
     {
       "id": "5",
       "name": "无联合发文机关",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": -49.99,
       "y": -86.6,
       "category": 5
@@ -53,7 +53,7 @@
     {
       "id": "6",
       "name": "《深圳建设工程价格信息》、《深圳市建设工程造价管理规定》",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": -80.9,
       "y": 58.77,
       "category": 6
@@ -61,7 +61,7 @@
     {
       "id": "7",
       "name": "2015年5月6日",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": -97.8,
       "y": 20.79,
       "category": 7
@@ -69,7 +69,7 @@
     {
       "id": "8",
       "name": "市级",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": -97.81,
       "y": -20.79,
       "category": 8
@@ -77,7 +77,7 @@
     {
       "id": "9",
       "name": "深圳市",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": -80.9,
       "y": -58.77,
       "category": 9
@@ -85,7 +85,7 @@
     {
       "id": "10",
       "name": "2015年10月1日",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": -50,
       "y": -86.60,
       "category": 10
@@ -93,7 +93,7 @@
     {
       "id": "11",
       "name": "2020年10月1日",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": -10.45,
       "y": -99.45,
       "category": 11
@@ -101,7 +101,7 @@
     {
       "id": "12",
       "name": "043000-10-2015-006831",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": 30.9,
       "y": -95.105,
       "category": 12
@@ -109,7 +109,7 @@
     {
       "id": "13",
       "name": "深建规〔2015〕5号",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": 66.91,
       "y": -74.314,
       "category": 13
@@ -117,7 +117,7 @@
     {
       "id": "14",
       "name": "部门文件",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": 91.35,
       "y": -40.67,
       "category": 14
@@ -125,7 +125,7 @@
     {
       "id": "15",
       "name": "已失效",
-      "symbolSize": 150,
+      "symbolSize": 100,
       "x": 100,
       "y": -2.449,
       "category": 15
