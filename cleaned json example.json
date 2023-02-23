@@ -21,85 +21,113 @@
     {
       "id": "2",
       "name": "住房建设专题",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 2
     },
     {
       "id": "3",
       "name": "规范性文件",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 3
     },
     {
       "id": "4",
       "name": "各有关单位",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 4
     },
     {
       "id": "5",
       "name": "无联合发文机关",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 5
     },
     {
       "id": "6",
       "name": "《深圳建设工程价格信息》、《深圳市建设工程造价管理规定》",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 6
     },
     {
       "id": "7",
       "name": "2015年5月6日",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 7
     },
     {
       "id": "8",
       "name": "市级",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 8
     },
     {
       "id": "9",
       "name": "深圳市",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 9
     },
     {
       "id": "10",
       "name": "2015年10月1日",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 10
     },
     {
       "id": "11",
       "name": "2020年10月1日",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 11
     },
     {
       "id": "12",
       "name": "043000-10-2015-006831",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 12
     },
     {
       "id": "13",
       "name": "深建规〔2015〕5号",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 13
     },
     {
       "id": "14",
       "name": "部门文件",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 14
     },
     {
       "id": "15",
       "name": "已失效",
-      "symbolSize": 5,
+      "symbolSize": 20,
+      "x": -87.93029,
+      "y": -6.8120565,
       "category": 15
     }
   ],
