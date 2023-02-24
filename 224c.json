@@ -1,0 +1,265 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "深圳市住房和建设局关于印发《深圳市建设工程材料设备询价采购办法》的通知",
+      "symbolSize": 200,
+      "x": 0,
+      "y": 0,
+      "category": 0
+    },
+    {
+      "id": "1",
+      "name": "深圳市住房和建设局",
+      "symbolSize": 75,
+      "x": 162,
+      "y": 118,
+      "category": 1
+    },
+    {
+      "id": "2",
+      "name": "住房建设专题",
+      "symbolSize": 75,
+      "x": 62,
+      "y": 190,
+      "category": 2
+    },
+    {
+      "id": "3",
+      "name": "规范性文件",
+      "symbolSize": 75,
+      "x": -62,
+      "y": 190,
+      "category": 3
+    },
+    {
+      "id": "4",
+      "name": "各有关单位",
+      "symbolSize": 75,
+      "x": -162,
+      "y": 118,
+      "category": 3
+    },
+    {
+      "id": "5",
+      "name": "无联合发文机关",
+      "symbolSize": 75,
+      "x": -200,
+      "y": 0,
+      "category": 3
+    },
+    {
+      "id": "6",
+      "name": "关联政策",
+      "symbolSize": 75,
+      "x": 62,
+      "y": -190,
+      "category": 5
+    },
+    {
+      "id": "7",
+      "name": "时间相关信息",
+      "symbolSize": 75,
+      "x": 162,
+      "y": -118,
+      "category": 4
+    },
+    {
+      "id": "8",
+      "name": "市级",
+      "symbolSize": 75,
+      "x": -162,
+      "y": -118,
+      "category": 3
+    },
+    {
+      "id": "9",
+      "name": "深圳市",
+      "symbolSize": 75,
+      "x": -62,
+      "y": -190,
+      "category": 3
+    },
+    {
+      "id": "10",
+      "name": "识别信息",
+      "symbolSize": 75,
+      "x": 200,
+      "y": 0,
+      "category": 6
+    },
+    {
+      "id": 11,
+      "name": "《深圳建设工程价格信息》",
+      "symbolSize": 75,
+      "x": -38,
+      "y": -90,
+      "category": 5
+    },
+    {
+      "id": 12,
+      "name": "《深圳市建设工程造价管理规定》",
+      "symbolSize": 75,
+      "x": 162,
+      "y": -90,
+      "category": 5
+    },
+    {
+      "id": 13,
+      "name": "发布时间:2015年5月6日",
+      "symbolSize": 75,
+      "x": 262,
+      "y": -18,
+      "category": 4
+    },
+    {
+      "id": 14,
+      "name": "实施日期:2015年10月1日",
+      "symbolSize": 75,
+      "x": 262,
+      "y": -68,
+      "category": 4
+    },
+    {
+      "id": 15,
+      "name": "失效日期:2020年10月1日",
+      "symbolSize": 75,
+      "x": 262,
+      "y": -118,
+      "category": 4
+    },
+    {
+      "id": 16,
+      "name": "有效期:已失效",
+      "symbolSize": 75,
+      "x": 262,
+      "y": -168,
+      "category": 4
+    },
+    {
+      "id": 17,
+      "name": "索引号:043000-10-2015-006831",
+      "symbolSize": 75,
+      "x": 300,
+      "y": 100,
+      "category": 6
+    },
+    {
+      "id": 18,
+      "name": "发文字号:深建规〔2015〕5号",
+      "symbolSize": 75,
+      "x": 300,
+      "y": 0,
+      "category": 6
+    },
+    {
+      "id": 19,
+      "name": "主题分类:部门文件",
+      "symbolSize": 75,
+      "x": 300,
+      "y": -100,
+      "category": 6
+    }
+  ],
+  "links": [
+    {
+      "source": "0",
+      "target": "1"
+    },
+    {
+      "source": "0",
+      "target": "2"
+    },
+    {
+      "source": "0",
+      "target": "3"
+    },
+    {
+      "source": "0",
+      "target": "4"
+    },
+    {
+      "source": "0",
+      "target": "5"
+    },
+    {
+      "source": "0",
+      "target": "6"
+    },
+    {
+      "source": "0",
+      "target": "7"
+    },
+    {
+      "source": "0",
+      "target": "8"
+    },
+    {
+      "source": "0",
+      "target": "9"
+    },
+    {
+      "source": "0",
+      "target": "10"
+    },
+    {
+      "source": "6",
+      "target": "11"
+    },
+    {
+      "source": "6",
+      "target": "12"
+    },
+    {
+      "source": "7",
+      "target": "13"
+    },
+    {
+      "source": "7",
+      "target": "14"
+    },
+    {
+      "source": "7",
+      "target": "15"
+    },
+    {
+      "source": "7",
+      "target": "16"
+    },
+    {
+      "source": "10",
+      "target": "17"
+    },
+    {
+      "source": "10",
+      "target": "18"
+    },
+    {
+      "source": "10",
+      "target": "19"
+    }
+  ],
+  "categories": [
+    {
+      "name": "标题"
+    },
+    {
+      "name": "发文机关"
+    },
+    {
+      "name": "所属专题"
+    },
+    {
+      "name": "属性"
+    },
+    {
+      "name": "时间相关"
+    },
+    {
+      "name": "关联政策"
+    },
+    {
+      "name": "识别号"
+    }
+  ]
+}
